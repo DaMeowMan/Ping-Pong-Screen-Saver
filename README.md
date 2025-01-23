@@ -1,1 +1,1 @@
-# Ping-Pong-Screen-Saver
+This is a ping pong ai scratch project they cannot loose!
